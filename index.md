@@ -13,6 +13,7 @@ Second year student,currently pursuing Btech in CSE from MNIT Jipur.Passionate a
 |Malaviya National Institute of Technology, Jaipur|2027|Btech CSE|8.42 CGPA|
 |Spectrum Sr. Sec. School, Alwar|2022|Class 12|95%|
 |B.L. Public Sr. Sec. School, Alwar|2020|Class 10|97%|
+---
 ![MNIT](https://cdec.mnit.ac.in/images/slider-images/slider1.jpg)
 ---
 
