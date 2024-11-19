@@ -22,7 +22,7 @@ Second year student,currently pursuing Btech in CSE from MNIT Jipur.Passionate a
 - Good in Designing
 - Active in College Clubs
 ---
-# Contact
+## Contact
 - Name-ASHIKA
 - Mobile No.-9526XXXXXX
 - Email ID-2023ucp1671@mnit.ac.in
