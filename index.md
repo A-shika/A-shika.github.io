@@ -18,14 +18,14 @@ Second year student,currently pursuing Btech in CSE from MNIT Jipur.Passionate a
 ---
 
 ## Skills
--Good at C,C++,Python,AutoCAd,Latex and Git
--Good in Designing
--Active in College Clubs
+- Good at C,C++,Python,AutoCAd,Latex and Git
+- Good in Designing
+- Active in College Clubs
 ---
 # Contact
-Name-ASHIKA
-Mobile No.-9526XXXXXX
-Email ID-2023ucp1671@mnit.ac.in
+- Name-ASHIKA
+- Mobile No.-9526XXXXXX
+- Email ID-2023ucp1671@mnit.ac.in
 ---
 
 
